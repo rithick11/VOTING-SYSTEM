@@ -1,2 +1,2 @@
 # VOTING-SYSTEM
-Using JAV
+Using JAVA
